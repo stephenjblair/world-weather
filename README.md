@@ -1,6 +1,8 @@
 # World Weather App
 
-## Live dem0 available 
+## Live demo available on Netlify
+
+[Here](https://confident-turing-1e057c.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
